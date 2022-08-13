@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(109, 109, 230);
+
+}
+header{
+    text-align: center;
+    color: white;
+
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    height: auto;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.593);
+    transition: .3s;
+
+}
+.campano{ 
+    
+    text-align: center;
+    
+}
+.campano.txtano{
+    background-color: blue;
+}
+
+
+
+section:hover{
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.593);
+
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
